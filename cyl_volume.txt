@@ -1,0 +1,4 @@
+open System // need to read in text and use math values
+
+// equation for cylinder volume
+let cylvol (r : float) (h : float) = Math.PI * Math.Pow(r, 2.0)
